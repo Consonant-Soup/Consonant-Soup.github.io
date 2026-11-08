@@ -8,7 +8,7 @@ layout: default
 
 * [Overview](#overview)
 * [Link to Github Organization and repositories](#link-to-github-organization-and-repositories)
-* [Team Contract](#Team-Contract)
+* [Team Contract](#team-contract)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
@@ -76,7 +76,7 @@ Beside the search bar is a filter where users can filter what amenities they wan
 
 Each study spot has a profile where users can see further information about the spot. Alongside the profile, users can click on a study spot profile and leave a time-sensitive report. There will be questions asking users of current noise level, business, seating availability, etc.
 
-![](images/filter_and_report.png)
+![](images/filter_and_reports.png)
 
 ## Community Feedback
 
