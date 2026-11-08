@@ -1,1 +1,1 @@
-# Consonant-Soup.github.io
+This repo contains the documentation for the Study Spottah website. See [index.md](index.md) for the source, or go to [https://consonant-soup.github.io/](https://consonant-soup.github.io).
