@@ -35,6 +35,8 @@ There will also be a place for students to communicate about the current conditi
 
 These will be cleared at the end of every day. 
 
+Finally, we will also have a page with TheBus and The Rainbow Shuttle arrivals on campus for students to quickly check in one spot how to get and from campus.
+
 ## Link to Github Organization and repositories
 * [Github organization (consonant soup)](https://consonant-soup.github.io/)
 * [Study spottah](https://github.com/Consonant-Soup/Study-spottah)
@@ -80,6 +82,10 @@ Each study spot has a profile where users can see further information about the 
 
 ![](images/filter_and_reports.png)
 
+### Transit
+
+There will also be a page that shows the soonest incoming and outgoing transit options. These will be set routes from TheBus that pass through UH Manoa's Campus, as well as The Rainbow Shuttle, which offers transit through campus only. 
+
 ## Community Feedback
 
 We are interested to hear your experience using Study Spottah! If you have any issues using the app please let up know.  
@@ -98,6 +104,7 @@ We are interested to hear your experience using Study Spottah! If you have any i
 - Users with an account may upvote/downvote notes
 - Users with an account may leave reviews or feedback to study spots
 - Admins may edit study spot tags, delete or upload notes and ban users
+- Users can view study spots and transit together on one map
 
 ## Team
 
