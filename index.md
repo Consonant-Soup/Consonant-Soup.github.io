@@ -33,6 +33,8 @@ There will also be a place for students to communicate about the current conditi
 - Available seating
 - Quiet Level (scale 1-5)
 
+These will be cleared at the end of every day. 
+
 ## Link to Github Organization and repositories
 * [Github organization (consonant soup)](https://consonant-soup.github.io/)
 * [Study spottah](https://github.com/Consonant-Soup/Study-spottah)
@@ -49,7 +51,7 @@ This section provides a walkthrough of the Study Spottah interface and its capab
 
 ### Landing Page
 
-The landing page is first presented to the users when they visit the study spottah website. Here, users can see our mission, list of study spots around campus, and a quick summary of what study spottah offers. 
+The landing page is first presented to the users when they visit the study spottah website. Here, users can see our mission, list of study spots around campus, and a quick summary of what study spottah offers. They can also view a list of incoming transit around the UH Manoa Campus, which are TheBus and the Rainbow Shuttle. 
 
 
 ### Sign in and sign up
@@ -87,6 +89,8 @@ We are interested to hear your experience using Study Spottah! If you have any i
 ### Milestone 1: Mockup development
 * [Milestone 1](https://github.com/orgs/Consonant-Soup/projects/5)
 
+### Milestone 2: 
+* [Milestone 2](https://github.com/orgs/Consonant-Soup/projects/6)
 
 ## Example enhancements
 - Users without or without an account may look for locations without signing up
@@ -97,4 +101,4 @@ We are interested to hear your experience using Study Spottah! If you have any i
 
 ## Team
 
-Study Spottah is designed, implemented, and maintained by Mija Wheeler, Tishya Chhabra, Brian Yao, Trynt Gregory, and Lourine Lalican
+Study Spottah is designed, implemented, and maintained by Mija Wheeler, Tishya Chhabra, Brian Yao, Trynt Gregory, and Lourine Lalican.
