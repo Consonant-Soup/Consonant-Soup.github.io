@@ -44,7 +44,7 @@ These will be cleared at the end of every day.
 
 ## Deployment
 
-* [Vercel - Github repo](https://github.com/Consonant-Soup/Consonant-Soup.github.io/tree/issue-1)
+* [Study Spottah: Deployed on Vercel](https://study-spottah.vercel.app/)
 
 ### User Guide
 This section provides a walkthrough of the Study Spottah interface and its capabilities
