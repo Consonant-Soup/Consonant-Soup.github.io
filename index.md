@@ -55,6 +55,9 @@ This section provides a walkthrough of the Study Spottah interface and its capab
 
 The landing page is first presented to the users when they visit the study spottah website. Here, users can see our mission, list of study spots around campus, and a quick summary of what study spottah offers. They can also view a list of incoming transit around the UH Manoa Campus, which are TheBus and the Rainbow Shuttle. 
 
+![](images/Landing_mockup1.png)
+
+![](images/Landing_mockup2.png)
 
 ### Sign in and sign up
 
@@ -64,27 +67,56 @@ In the sign in page, an email address and password is required.
 
 If you don't already have an account, press the "sign up" at the bottom of the sign in page. Alongside an email address and password, it will also ask users to fill out a display name for their profile. 
 
+![](images/signin_mockup.png)
+
 ### User Home page
 
-Once users are signed in, users are taken into the home page. At the top of the page, there is a search bar where students can search for a study spot. 
+Once users are signed in, additional functionality accessible in the navbar will become available. Users can schedule a study session and be able to report a new spot.
 
-![](images/User_homepage.png)
+![](images/Landing_mockup1.png)
+
+![](images/Landing_mockup2.png)
+
+Users can also toggle between a list view and a map view.
+
+![](images/Landing_listVer.png)
+
+### Schedule a Study Session
+
+To schedule a study session with another user, click the list version of the map where it will show a list of study spots. 
+
+![](images/Schedule_mockup.png)
+![](images/Schedule_mockup5.png)
+
+After clicking the location of the study spot, the user will be able to pick the day, start time, and end of the study session. 
+
+![](images/Schedule_mockup2.png)
+
+After entering the date and duration of the study session, they can invite other users to study with.
+
+![](images/Schedule_mockup3.png)
+
+![](images/Schedule_mockup4.png)
 
 ### Filter page and Community reports
 
 Beside the search bar is a filter where users can filter what amenities they want in a study spot. Addition to the filters, users can also see time-sensitive community reports for each location. 
 
-![](images/studyspotprofreview.png)
+![](images/Filter_mockup.png)
 
 ### Study Spot profile and Review
 
 Each study spot has a profile where users can see further information about the spot. Alongside the profile, users can click on a study spot profile and leave a time-sensitive report. There will be questions asking users of current noise level, business, seating availability, etc.
 
-![](images/filter_and_reports.png)
+![](images/Create_reportNewSpot.png)
 
 ### Transit
 
 There will also be a page that shows the soonest incoming and outgoing transit options. These will be set routes from TheBus that pass through UH Manoa's Campus, as well as The Rainbow Shuttle, which offers transit through campus only. 
+
+![](images/Transit_mockup1.png)
+
+![](images/Transit_mockup2.png)
 
 ## Community Feedback
 
@@ -94,6 +126,7 @@ We are interested to hear your experience using Study Spottah! If you have any i
 
 ### Milestone 1: Mockup development
 * [Milestone 1](https://github.com/orgs/Consonant-Soup/projects/5)
+In terms of effort, this Milestone took a collective effort of about 8-9 hours. We met three times, twice outside of class. And we each spent about an hour or two mocking up our respective pages.
 
 ### Milestone 2: 
 * [Milestone 2](https://github.com/orgs/Consonant-Soup/projects/6)
